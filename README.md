@@ -16,3 +16,4 @@ Forex Education Platform
 <!-- updated: 2025-04-23 -->
 <!-- updated: 2025-05-03 -->
 <!-- updated: 2025-05-08 -->
+<!-- updated: 2025-05-17 -->

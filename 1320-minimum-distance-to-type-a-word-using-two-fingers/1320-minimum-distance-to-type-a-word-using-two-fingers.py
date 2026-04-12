@@ -4,9 +4,6 @@ class Solution:
             if a == 26: 
                 return 0
             return abs(a // 6 - b // 6) + abs(a % 6 - b % 6)
-
-        # Dictionary mapping other_finger_position -> min_cost
-        # 26 represents the initial "free" finger state
         dp = {26: 0} 
         prev = 26
 

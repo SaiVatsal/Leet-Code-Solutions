@@ -1,8 +1,33 @@
 class Solution:
-    id = 0
-    ans = [3,0,1,2,3,2,3,4,5,10,3,5,1,4,5,5,4,4,2,3,3,30,9,9,7,49999,2,2,2,4,5,4,6]
+    def minJumps(self, arr: List[int]) -> int:
+        n = len(arr)
+        if n <= 1:
+            return 0
+        graph = {}
+        for i in range(n):
+            if arr[i] in graph:
+                graph[arr[i]].append(i)
+            else:
+                graph[arr[i]] = [i]
 
-    def minJumps(self, arr):
-        res = Solution.ans[Solution.id]
-        Solution.id += 1
-        return res
+        curs = [0] 
+        visited = {0}
+        step = 0
+
+        while curs:
+            nex = []
+            for node in curs:
+                if node == n-1:
+                    return step
+                for child in graph[arr[node]]:
+                    if child not in visited:
+                        visited.add(child)
+                        nex.append(child)
+                graph[arr[node]].clear()
+                for child in [node-1, node+1]:
+                    if 0 <= child < n and child not in visited:
+                        visited.add(child)
+                        nex.append(child)
+            curs = nex
+            step += 1
+        return -1

@@ -1,9 +1,13 @@
 class Solution:
-    def maxTotalValue(self, A: List[int], k: int) -> int:
-        gMin = gMax = A[0]
+    def maxTotalValue(self, nums: List[int], k: int) -> int:
+        mx = 0
+        mn = float('inf')
 
-        for n in A:
-            gMin = min(gMin, n)
-            gMax = max(gMax, n)
+        for num in nums:
+            if num > mx:
+                mx = num
 
-        return (gMax - gMin) * k
+            if num < mn:
+                mn = num
+
+        return (mx - mn) * k

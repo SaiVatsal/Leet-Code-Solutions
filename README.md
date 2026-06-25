@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3962-number-of-zigzag-arrays-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
+## Array
+|  |
+| ------- |
+| [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
+## Math
+|  |
+| ------- |
+| [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
+## Sorting
+|  |
+| ------- |
+| [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 <!---LeetCode Topics End-->

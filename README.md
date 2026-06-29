@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 ## Divide and Conquer
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->

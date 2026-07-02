@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2914-find-the-safest-path-in-a-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Math
 |  |
 | ------- |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Segment Tree
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -83,4 +87,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Quickselect
+|  |
+| ------- |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->

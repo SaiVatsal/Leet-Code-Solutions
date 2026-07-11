@@ -74,10 +74,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Breadth-First Search
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
+## Depth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2793-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->

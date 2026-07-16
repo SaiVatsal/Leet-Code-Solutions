@@ -35,16 +35,19 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +104,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2793-count-the-number-of-complete-components) |
+## Two Pointers
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

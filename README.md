@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [1297-maximum-number-of-balloons](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1297-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

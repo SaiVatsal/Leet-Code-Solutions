@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |

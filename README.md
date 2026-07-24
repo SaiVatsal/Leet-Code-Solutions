@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0067-add-binary) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Memoization
 |  |

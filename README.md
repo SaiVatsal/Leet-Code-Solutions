@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1297-maximum-number-of-balloons](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [1297-maximum-number-of-balloons](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |

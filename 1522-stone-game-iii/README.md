@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/stone-game-iii/solutions/8437608/solution-by-la_castille-dtzf/?envType=daily-question&envId=2026-08-03">1522. Stone Game III</a></h2><h3>Hard</h3><hr><p>Alice and Bob continue their games with piles of stones. There are several stones <strong>arranged in a row</strong>, and each stone has an associated value which is an integer given in the array <code>stoneValue</code>.</p>
+<h2><a href="https://leetcode.com/problems/stone-game-iii">1522. Stone Game III</a></h2><h3>Hard</h3><hr><p>Alice and Bob continue their games with piles of stones. There are several stones <strong>arranged in a row</strong>, and each stone has an associated value which is an integer given in the array <code>stoneValue</code>.</p>
 
 <p>Alice and Bob take turns, with Alice starting first. On each player&#39;s turn, that player can take <code>1</code>, <code>2</code>, or <code>3</code> stones from the <strong>first</strong> remaining stones in the row.</p>
 

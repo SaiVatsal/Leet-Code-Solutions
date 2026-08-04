@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4107-find-missing-elements](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4107-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4107-find-missing-elements](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4107-find-missing-elements) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4107-find-missing-elements) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer

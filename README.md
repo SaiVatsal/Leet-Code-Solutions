@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
+| [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0066-plus-one](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1386-shift-2d-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1386-shift-2d-grid) |
+| [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0069-sqrtx](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -203,4 +206,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->

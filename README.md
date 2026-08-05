@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3561-remove-methods-from-project](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3561-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -159,10 +160,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3561-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3561-remove-methods-from-project) |
 ## Two Pointers
 |  |
 | ------- |

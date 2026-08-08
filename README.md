@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1297-maximum-number-of-balloons](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0070-climbing-stairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |

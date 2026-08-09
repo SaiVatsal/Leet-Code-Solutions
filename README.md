@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
+| [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1386-shift-2d-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0069-sqrtx](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -218,13 +222,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->

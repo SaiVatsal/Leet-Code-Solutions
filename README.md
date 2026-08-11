@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [1297-maximum-number-of-balloons](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3859-maximum-product-of-two-digits) |

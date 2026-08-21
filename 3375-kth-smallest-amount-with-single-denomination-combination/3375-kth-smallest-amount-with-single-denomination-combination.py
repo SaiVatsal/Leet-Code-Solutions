@@ -1,33 +1,68 @@
+from typing import List
+from math import gcd
+## moduels
 class Solution:
-    def findKthSmallest(self, coins: list[int], k: int) -> int:
+
+    def findKthSmallest(self, coins: List[int], k: int) -> int:
         coins.sort()
-         
-        A = []
-        for c in coins:
+# arranges
+        useful = []
 
-            if all(c % x for x in A):
-                A.append(c)
+        for coin in coins:
+            redundant = False
 
-        n = len(A)
+            for prev in useful:
+                if coin % prev == 0:
+                    redundant = True
+                    break
 
-        def check(mid):
-            tot = 0
-            for i in range(1, n + 1):
-                q = (1 << i) - 1
-                lim = 1 << n
-                sgn = ((i & 1) << 1) - 1
+            if not redundant:
+                useful.append(coin)
 
-                while q < lim:
-                    x = 1
-                    for j in range(n):
-                        if (q >> j) & 1:
-                            x = lcm(x, A[j])
+        low = 1
+        high = useful[0] * k
 
-                    tot += (mid // x) * sgn
+        m = len(useful)
+        total_masks = 1 << m
 
-                    c = q & -q
-                    r = q + c
-                    q = (((r ^ q) >> 2) // c) | r
-            return tot >= k
- 
-        return bisect_left(range(A[0] * k + 1), True, lo=k, key=check)
+        lcms = [1] * total_masks
+
+        signs = [1] * total_masks
+
+        for mask in range(1, total_masks):
+            current_lcm = 1
+            bits = 0
+
+            for i in range(m):
+                if mask & (1 << i):
+                    current_lcm //= gcd(current_lcm, useful[i])
+
+                    if current_lcm > high // useful[i]:
+                        current_lcm = high + 1
+                        break
+
+                    current_lcm *= useful[i]
+                    bits += 1
+
+            lcms[mask] = current_lcm
+
+            signs[mask] = 1 if bits % 2 == 1 else -1
+
+        def count(x: int) -> int:
+            result = 0
+
+            for mask in range(1, total_masks):
+                if lcms[mask] <= x:
+                    result += signs[mask] * (x // lcms[mask])
+
+            return result
+
+        while low < high:
+            mid = low + (high - low) // 2
+
+            if count(mid) >= k:
+                high = mid
+            else:
+                low = mid + 1
+
+        return low

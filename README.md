@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0069-sqrtx](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0069-sqrtx) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4141-count-elements-with-at-least-k-greater-values) |
@@ -195,17 +198,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0067-add-binary) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Memoization

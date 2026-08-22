@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/?envType=daily-question&envId=2026-08-22">3918. Check Divisibility by Digit Sum and Product</a></h2><h3>Easy</h3><hr><p>You are given a positive integer <code>n</code>. Determine whether <code>n</code> is divisible by the <strong>sum </strong>of the following two values:</p>
+<h2><a href="https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product">3918. Check Divisibility by Digit Sum and Product</a></h2><h3>Easy</h3><hr><p>You are given a positive integer <code>n</code>. Determine whether <code>n</code> is divisible by the <strong>sum </strong>of the following two values:</p>
 
 <ul>
 	<li>

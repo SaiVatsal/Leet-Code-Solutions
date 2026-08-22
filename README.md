@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3859-maximum-product-of-two-digits) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |

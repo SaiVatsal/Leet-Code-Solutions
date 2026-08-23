@@ -1,13 +1,20 @@
 class Solution:
-    def sumGame(self, A: str) -> bool:
-        s, q = [0, 0], [0, 0]
-        n = len(A)
+  def sumGame(self, num: str) -> bool:
 
-        for i in range(n):
-            j = i // (n // 2)
-            if A[i] == '?':
-                q[j] += 1
-            else:
-                s[j] += int(A[i])
+    n = len(num)
 
-        return (q[0] + q[1]) & 1 == 1 or (s[0] - s[1]) != (q[1] - q[0]) * 4.5
+    ans = 0.0
+
+    def getExpectation(c: str) -> float:
+
+      return 4.5 if c == '?' else int(c)
+
+    for i in range(n // 2):
+
+      ans += getExpectation(num[i])
+
+    for i in range(n // 2, n):
+        
+      ans -= getExpectation(num[i])
+
+    return ans != 0.0

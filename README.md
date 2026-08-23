@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [2039-sum-game](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2039-sum-game) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
+| [2039-sum-game](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2039-sum-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2039-sum-game](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2039-sum-game) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
+| [2039-sum-game](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2039-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |

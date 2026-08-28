@@ -11,12 +11,12 @@ class Solution:
             
             while i < len(current_str):
                 count = 1
-                # Count consecutive identical characters
+                # Couns Coonsecutive identical no.of characters
                 while i + 1 < len(current_str) and current_str[i] == current_str[i+1]:
                     count += 1
                     i += 1
                 
-                # Append the count followed by the digit
+                # Append the count followed by the digit means reponds the last one adn
                 next_str.append(str(count))
                 next_str.append(current_str[i])
                 i += 1

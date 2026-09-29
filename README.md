@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1968-maximum-building-height](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1386-shift-2d-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1386-shift-2d-grid) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Quickselect
 |  |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

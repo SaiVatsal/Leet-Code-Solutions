@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [1240-stone-game-ii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/1522-stone-game-iii) |
@@ -259,5 +261,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SaiVatsal/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
